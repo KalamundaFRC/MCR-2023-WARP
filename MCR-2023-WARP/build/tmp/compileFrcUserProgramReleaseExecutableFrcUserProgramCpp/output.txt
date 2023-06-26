@@ -1,0 +1,4 @@
+See file:///C:/Users/foxlo/OneDrive/Documents/MCR-2023/MCR-2023-WARP/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/foxlo/OneDrive/Documents/MCR-2023/MCR-2023-WARP/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.

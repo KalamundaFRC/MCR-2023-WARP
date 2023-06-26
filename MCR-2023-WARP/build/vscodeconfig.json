@@ -1,0 +1,431 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\78d55e07215a91239a6e5e4800c5c895\\transformed\\wpilibNewCommands-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c9d67768243207131d96f21f05f63c5\\transformed\\wpiapi-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\94849ac2590c8f2e4e42775c60e23936\\transformed\\api-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f86daef9331b9057b0e51bc7d3b003de\\transformed\\cci-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\8bcac1837208ee12066be6a36c7b9946\\transformed\\tools-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\5c95a9bc8b0c516662d2831e2a86bbda\\transformed\\wpiapi-cpp-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\7f0bd2e0c7e721653d8cadbe29924bdb\\transformed\\wpilibc-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e9d83413e445c9e0a93056169a467fef\\transformed\\ntcore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6d19ce2f75515bc607e3fd52f02afe9d\\transformed\\hal-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e12dd3185412510b57c79b24141113dd\\transformed\\wpimath-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1ae5f1e7ec80cd75cccea351f12d5a51\\transformed\\wpinet-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\21c7ee83e882a4f345ad77172e93f49a\\transformed\\wpiutil-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f4764404cff3c055c4122c4c56804121\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\62fe7845693747b64760f9c7ad1d8789\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\84e1369b24631c6c4f99eb26790b5d58\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a283548003b09b69471f721571f55481\\transformed\\cameraserver-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\3803aa57cd59cbd35817f7d6dbf97810\\transformed\\cscore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a96ed522715ba1c8616d54a16ab9397e\\transformed\\apriltag-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fd77524ea9abecf2450251a76b4c6c22\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fa671e1bf49d2051ec7a9d6ac7516e5a\\transformed\\wpilibNewCommands-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c5219c66fd83a29acab6a6065d976d9\\transformed\\wpilibc-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\67c14747c8c5e1fccd6f0f7d00c48eee\\transformed\\ntcore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\ddc5ae15c69101e205b0eafc34d3dcbd\\transformed\\hal-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\49a7f982d6e19b98ba47cfca0c0f1f37\\transformed\\wpimath-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0a91a193c84d8dc4772fc96c7d1905f\\transformed\\wpinet-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0d5f1c1af44cb3dc8c9837300337344\\transformed\\wpiutil-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a8e5b8399516aeaa3b9bb7ca11665dcb\\transformed\\cameraserver-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\18eb932d5608e4cc401d97ef266e7635\\transformed\\cscore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1c36ac2f9a68c7997dfafecacbc873ad\\transformed\\apriltag-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a16637042c7e6710a187fac06daa0e8e\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fa671e1bf49d2051ec7a9d6ac7516e5a\\transformed\\wpilibNewCommands-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c5219c66fd83a29acab6a6065d976d9\\transformed\\wpilibc-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\67c14747c8c5e1fccd6f0f7d00c48eee\\transformed\\ntcore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\ddc5ae15c69101e205b0eafc34d3dcbd\\transformed\\hal-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\49a7f982d6e19b98ba47cfca0c0f1f37\\transformed\\wpimath-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0a91a193c84d8dc4772fc96c7d1905f\\transformed\\wpinet-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0d5f1c1af44cb3dc8c9837300337344\\transformed\\wpiutil-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a8e5b8399516aeaa3b9bb7ca11665dcb\\transformed\\cameraserver-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\18eb932d5608e4cc401d97ef266e7635\\transformed\\cscore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1c36ac2f9a68c7997dfafecacbc873ad\\transformed\\apriltag-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a16637042c7e6710a187fac06daa0e8e\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\78d55e07215a91239a6e5e4800c5c895\\transformed\\wpilibNewCommands-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c9d67768243207131d96f21f05f63c5\\transformed\\wpiapi-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\94849ac2590c8f2e4e42775c60e23936\\transformed\\api-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f86daef9331b9057b0e51bc7d3b003de\\transformed\\cci-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\8bcac1837208ee12066be6a36c7b9946\\transformed\\tools-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\5c95a9bc8b0c516662d2831e2a86bbda\\transformed\\wpiapi-cpp-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\7f0bd2e0c7e721653d8cadbe29924bdb\\transformed\\wpilibc-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e9d83413e445c9e0a93056169a467fef\\transformed\\ntcore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6d19ce2f75515bc607e3fd52f02afe9d\\transformed\\hal-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e12dd3185412510b57c79b24141113dd\\transformed\\wpimath-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1ae5f1e7ec80cd75cccea351f12d5a51\\transformed\\wpinet-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\21c7ee83e882a4f345ad77172e93f49a\\transformed\\wpiutil-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f4764404cff3c055c4122c4c56804121\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\62fe7845693747b64760f9c7ad1d8789\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\84e1369b24631c6c4f99eb26790b5d58\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a283548003b09b69471f721571f55481\\transformed\\cameraserver-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\3803aa57cd59cbd35817f7d6dbf97810\\transformed\\cscore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a96ed522715ba1c8616d54a16ab9397e\\transformed\\apriltag-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fd77524ea9abecf2450251a76b4c6c22\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-pthread",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\78d55e07215a91239a6e5e4800c5c895\\transformed\\wpilibNewCommands-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c9d67768243207131d96f21f05f63c5\\transformed\\wpiapi-cpp-5.30.4-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\94849ac2590c8f2e4e42775c60e23936\\transformed\\api-cpp-5.30.4-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f86daef9331b9057b0e51bc7d3b003de\\transformed\\cci-5.30.4-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\8bcac1837208ee12066be6a36c7b9946\\transformed\\tools-23.0.5-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\5c95a9bc8b0c516662d2831e2a86bbda\\transformed\\wpiapi-cpp-23.0.5-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\7f0bd2e0c7e721653d8cadbe29924bdb\\transformed\\wpilibc-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e9d83413e445c9e0a93056169a467fef\\transformed\\ntcore-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6d19ce2f75515bc607e3fd52f02afe9d\\transformed\\hal-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e12dd3185412510b57c79b24141113dd\\transformed\\wpimath-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1ae5f1e7ec80cd75cccea351f12d5a51\\transformed\\wpinet-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\21c7ee83e882a4f345ad77172e93f49a\\transformed\\wpiutil-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f4764404cff3c055c4122c4c56804121\\transformed\\netcomm-2023.3.0-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\62fe7845693747b64760f9c7ad1d8789\\transformed\\chipobject-2023.3.0-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\84e1369b24631c6c4f99eb26790b5d58\\transformed\\visa-2023.3.0-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a283548003b09b69471f721571f55481\\transformed\\cameraserver-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\3803aa57cd59cbd35817f7d6dbf97810\\transformed\\cscore-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a96ed522715ba1c8616d54a16ab9397e\\transformed\\apriltag-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fd77524ea9abecf2450251a76b4c6c22\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+          "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\78d55e07215a91239a6e5e4800c5c895\\transformed\\wpilibNewCommands-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c9d67768243207131d96f21f05f63c5\\transformed\\wpiapi-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\94849ac2590c8f2e4e42775c60e23936\\transformed\\api-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f86daef9331b9057b0e51bc7d3b003de\\transformed\\cci-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\8bcac1837208ee12066be6a36c7b9946\\transformed\\tools-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\5c95a9bc8b0c516662d2831e2a86bbda\\transformed\\wpiapi-cpp-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\7f0bd2e0c7e721653d8cadbe29924bdb\\transformed\\wpilibc-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e9d83413e445c9e0a93056169a467fef\\transformed\\ntcore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6d19ce2f75515bc607e3fd52f02afe9d\\transformed\\hal-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e12dd3185412510b57c79b24141113dd\\transformed\\wpimath-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1ae5f1e7ec80cd75cccea351f12d5a51\\transformed\\wpinet-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\21c7ee83e882a4f345ad77172e93f49a\\transformed\\wpiutil-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f4764404cff3c055c4122c4c56804121\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\62fe7845693747b64760f9c7ad1d8789\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\84e1369b24631c6c4f99eb26790b5d58\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a283548003b09b69471f721571f55481\\transformed\\cameraserver-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\3803aa57cd59cbd35817f7d6dbf97810\\transformed\\cscore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a96ed522715ba1c8616d54a16ab9397e\\transformed\\apriltag-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fd77524ea9abecf2450251a76b4c6c22\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fa671e1bf49d2051ec7a9d6ac7516e5a\\transformed\\wpilibNewCommands-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c5219c66fd83a29acab6a6065d976d9\\transformed\\wpilibc-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\67c14747c8c5e1fccd6f0f7d00c48eee\\transformed\\ntcore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\ddc5ae15c69101e205b0eafc34d3dcbd\\transformed\\hal-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\49a7f982d6e19b98ba47cfca0c0f1f37\\transformed\\wpimath-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0a91a193c84d8dc4772fc96c7d1905f\\transformed\\wpinet-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0d5f1c1af44cb3dc8c9837300337344\\transformed\\wpiutil-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a8e5b8399516aeaa3b9bb7ca11665dcb\\transformed\\cameraserver-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\18eb932d5608e4cc401d97ef266e7635\\transformed\\cscore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1c36ac2f9a68c7997dfafecacbc873ad\\transformed\\apriltag-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a16637042c7e6710a187fac06daa0e8e\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fa671e1bf49d2051ec7a9d6ac7516e5a\\transformed\\wpilibNewCommands-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c5219c66fd83a29acab6a6065d976d9\\transformed\\wpilibc-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\67c14747c8c5e1fccd6f0f7d00c48eee\\transformed\\ntcore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\ddc5ae15c69101e205b0eafc34d3dcbd\\transformed\\hal-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\49a7f982d6e19b98ba47cfca0c0f1f37\\transformed\\wpimath-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0a91a193c84d8dc4772fc96c7d1905f\\transformed\\wpinet-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\d0d5f1c1af44cb3dc8c9837300337344\\transformed\\wpiutil-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a8e5b8399516aeaa3b9bb7ca11665dcb\\transformed\\cameraserver-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\18eb932d5608e4cc401d97ef266e7635\\transformed\\cscore-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1c36ac2f9a68c7997dfafecacbc873ad\\transformed\\apriltag-cpp-2023.2.1-sources\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a16637042c7e6710a187fac06daa0e8e\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\78d55e07215a91239a6e5e4800c5c895\\transformed\\wpilibNewCommands-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c9d67768243207131d96f21f05f63c5\\transformed\\wpiapi-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\94849ac2590c8f2e4e42775c60e23936\\transformed\\api-cpp-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f86daef9331b9057b0e51bc7d3b003de\\transformed\\cci-5.30.4-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\8bcac1837208ee12066be6a36c7b9946\\transformed\\tools-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\5c95a9bc8b0c516662d2831e2a86bbda\\transformed\\wpiapi-cpp-23.0.5-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\7f0bd2e0c7e721653d8cadbe29924bdb\\transformed\\wpilibc-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e9d83413e445c9e0a93056169a467fef\\transformed\\ntcore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6d19ce2f75515bc607e3fd52f02afe9d\\transformed\\hal-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e12dd3185412510b57c79b24141113dd\\transformed\\wpimath-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1ae5f1e7ec80cd75cccea351f12d5a51\\transformed\\wpinet-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\21c7ee83e882a4f345ad77172e93f49a\\transformed\\wpiutil-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f4764404cff3c055c4122c4c56804121\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\62fe7845693747b64760f9c7ad1d8789\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\84e1369b24631c6c4f99eb26790b5d58\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a283548003b09b69471f721571f55481\\transformed\\cameraserver-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\3803aa57cd59cbd35817f7d6dbf97810\\transformed\\cscore-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a96ed522715ba1c8616d54a16ab9397e\\transformed\\apriltag-cpp-2023.2.1-headers\\",
+      "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fd77524ea9abecf2450251a76b4c6c22\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-pthread",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\78d55e07215a91239a6e5e4800c5c895\\transformed\\wpilibNewCommands-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6c9d67768243207131d96f21f05f63c5\\transformed\\wpiapi-cpp-5.30.4-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\94849ac2590c8f2e4e42775c60e23936\\transformed\\api-cpp-5.30.4-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f86daef9331b9057b0e51bc7d3b003de\\transformed\\cci-5.30.4-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\8bcac1837208ee12066be6a36c7b9946\\transformed\\tools-23.0.5-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\5c95a9bc8b0c516662d2831e2a86bbda\\transformed\\wpiapi-cpp-23.0.5-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\7f0bd2e0c7e721653d8cadbe29924bdb\\transformed\\wpilibc-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e9d83413e445c9e0a93056169a467fef\\transformed\\ntcore-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\6d19ce2f75515bc607e3fd52f02afe9d\\transformed\\hal-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\e12dd3185412510b57c79b24141113dd\\transformed\\wpimath-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\1ae5f1e7ec80cd75cccea351f12d5a51\\transformed\\wpinet-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\21c7ee83e882a4f345ad77172e93f49a\\transformed\\wpiutil-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\f4764404cff3c055c4122c4c56804121\\transformed\\netcomm-2023.3.0-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\62fe7845693747b64760f9c7ad1d8789\\transformed\\chipobject-2023.3.0-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\84e1369b24631c6c4f99eb26790b5d58\\transformed\\visa-2023.3.0-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a283548003b09b69471f721571f55481\\transformed\\cameraserver-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\3803aa57cd59cbd35817f7d6dbf97810\\transformed\\cscore-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\a96ed522715ba1c8616d54a16ab9397e\\transformed\\apriltag-cpp-2023.2.1-headers\\",
+          "C:\\Users\\foxlo\\.gradle\\caches\\transforms-3\\fd77524ea9abecf2450251a76b4c6c22\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+          "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\foxlo\\OneDrive\\Documents\\MCR-2023\\2023-Test-Bench\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]
